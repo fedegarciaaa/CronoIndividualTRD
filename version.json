@@ -1,6 +1,7 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.1.2",
   "ReleaseDate": "2025-12-11",
-  "DownloadUrl": "https://github.com/fedegarciaaa/CronoIndividualTRD/releases/download/v1.0.1/CronoIndividual.msix",
+  "DownloadUrl": "https://github.com/fedegarciaaa/CronoIndividualTRD/releases/download/v1.1.2/CronoIndividual.msix",
   "ReleaseNotes": "Correcciones de estabilidad y mejoras en recuperación de tiempos"
+
 }
